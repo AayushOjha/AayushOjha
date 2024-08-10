@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushojha&label=Profile%20views&color=0e75b6&style=flat" alt="aayushojha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushojha" alt="aayushojha" /></a> </p>
-
 - 🌱 I’m currently learning **Nest.js | Rust**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/devAyushOjha](https://linktr.ee/devAyushOjha)
